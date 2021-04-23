@@ -3,6 +3,9 @@
 
 name: Node.js Package
 
+env:
+  NPM_TOKEN: ${{secrets.NPM_TOKEN}}
+
 on:
   release:
     types: [created]
@@ -17,8 +20,7 @@ jobs:
           node-version: 12
       - run: npm ci
       - run: npm test
-        env:
-          NPM_TOKEN: ${{secrets.NPM_TOKEN}}
+
 
   publish-npm:
     needs: build
