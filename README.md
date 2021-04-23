@@ -1,0 +1,2 @@
+# nodeSayHi
+testing package publishing
