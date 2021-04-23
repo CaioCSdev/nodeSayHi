@@ -1,6 +1,6 @@
 {
   "name": "caiocsdev-sayhi-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "just prints Hi",
   "main": "index.js",
   "scripts": {
