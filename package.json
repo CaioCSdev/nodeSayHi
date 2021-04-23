@@ -1,5 +1,5 @@
 {
-  "name": "sayhi",
+  "name": "caiocsdev-sayhi-pkg",
   "version": "1.0.0",
   "description": "just prints Hi",
   "main": "index.js",

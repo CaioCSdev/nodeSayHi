@@ -3,3 +3,5 @@ function SayHi(){
 }
 
 console.log(SayHi())
+
+module.exports = SayHi()
