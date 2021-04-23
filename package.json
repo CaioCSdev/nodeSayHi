@@ -1,0 +1,19 @@
+{
+  "name": "sayhi",
+  "version": "1.0.0",
+  "description": "just prints Hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioCSdev/nodeSayHi.git"
+  },
+  "author": "Caio Salgado",
+  "license": "LGPL-2.1-or-later",
+  "bugs": {
+    "url": "https://github.com/CaioCSdev/nodeSayHi/issues"
+  },
+  "homepage": "https://github.com/CaioCSdev/nodeSayHi#readme"
+}
